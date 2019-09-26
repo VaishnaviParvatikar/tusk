@@ -5,4 +5,6 @@ Dosa
 Idli
 Pizza
 Pasta
+Beans
+Apple
 Thank you!!!
